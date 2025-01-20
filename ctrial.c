@@ -1,1 +1,0 @@
-one two three git checkout ctrial.c
